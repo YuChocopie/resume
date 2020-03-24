@@ -4,6 +4,8 @@
 
 #### 춤을 좋아하는 안드로이드 개발자 김유정입니다 :)
 
+좋은 개발자가 되기 위해서는 오직 개발에만 집중하기보다는 여러 직군과 협업을 해야 한다고 생각합니다. 그래서 개발뿐만 아니라 디자인, 기획을 접해보고 도움이 될만한 것들을 계속 배우고 있습니다
+
 - 이름: 김유정
 
 - Email: pointu341@gmail.com
@@ -40,9 +42,11 @@
 
 #### Process
 
-- Mornitoring - Google Analytics
-- Communication - Slack
-- Issue tracking - Github / Jira(애자일/칸반) 
+- 모니터링 - Google Analytics
+
+- 커뮤니티 - Slack
+- 이슈관리 - Github / Jira(애자일/칸반) 
+- 버전관리 - Git
 
 
 
@@ -76,7 +80,7 @@
 
 - 사용한 Skill 또는 지식 : Android, git, TweenAnimation, Databinding, MVVM pattern
 
-<img width="200" alt="image" src="./images/coding_01.png"><img width="200" alt="image" src="./images/coding_02.png"><img width="200" alt="image" src="./images/coding_03.png"><img width="200" alt="image" src="./images/coding_04.png"><img width="200" alt="image" src="./images/coding_05.png"><img width="200" alt="image" src="./images/coding_06.png"><img width="200" alt="image" src="./images/coding_07.png"><img width="200" alt="image" src="./images/coding_08.png">
+<img width="192" alt="image" src="./images/coding_01.png"><img width="200" alt="image" src="./images/coding_02.png"><img width="200" alt="image" src="./images/coding_03.png"><img width="200" alt="image" src="./images/coding_04.png"><img width="190" alt="image" src="./images/coding_05.png"><img width="190" alt="image" src="./images/coding_06.png"><img width="205" alt="image" src="./images/coding_07.png"><img width="20" alt="image" src="./images/coding_08.png">
 
 
 
@@ -174,7 +178,7 @@
 
 - 수상 날짜: 2019.08  
 
-**SK브로드􏰂밴드 클라우드캠 개발공모전(최우수)**
+**SK브로드밴드 클라우드캠 개발공모전(최우수)**
 
 - 수상 날짜: 2019.03  
 
