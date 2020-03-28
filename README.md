@@ -33,7 +33,7 @@
 
 - MVP, MVVM Pattern
 - DataBinding
-- 기타 : glide, retrofit, TweenAnimation, JNI
+- 기타 : glide, retrofit, TweenAnimation, JNI, Room
 
 #### Server
 
