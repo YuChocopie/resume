@@ -52,15 +52,6 @@
 
 ## 프로젝트
 
-### [Torchlight](https://github.com/2AO/Torchlight-Android)
-
-- 기간 : 2019.10 ~ 현재
-- 소개 : kotlin 기반 사이드프로젝트 팀원을 모집해주는 토이프로젝트
-
-- 역할 : androidkotlin해시태그 추가나 선택버튼 등 구현에 오래걸리는 부분들은 커스텀뷰를 따로 제작, 프로젝트 생성부분을 담당
-- 사용한 Skill 또는 지식 : Android, ViewPager2,koin, MVVM pattern, Databinding
-
-<img width="160" alt="image" src="./images/torchlight01.png"><img width="160" alt="image" src="./images/torchlight02.png"><img width="160" alt="image" src="./images/torchlight03.png"><img width="160" alt="image" src="./images/torchlight04.png"><img width="160" alt="image" src="./images/torchlight05.png">
 
 ### [MOTI](https://github.com/YuChocopie/Ahobsu-Node-Backend)
 
