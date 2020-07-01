@@ -55,7 +55,7 @@
 
 ### [MOTI](https://github.com/YuChocopie/Ahobsu-Node-Backend)
 
-- 기간 : 2019.10 ~ 현재
+- 기간 : 2019.10 ~ 2020.02
 - 소개 : 매일매일 미션을 수행하며 카드를 수집하는 ios 앱의 서버 담당.
 - 역할 : 답변생성과 조회, 이미지파일 업로드, 서버시간에  밎춰 주차별로 묶어 data 제공
 - 사용한 Skill 또는 지식 : NodeJS, express, mysql, sequilze, jest, swagger, jwt
