@@ -12,6 +12,8 @@
 
 - GitHub: https://github.com/YuChocopie 
 
+- blog: https://yuchocopie.com
+
 - 취미: 춤, 바다낚시, 해커톤
 
    
