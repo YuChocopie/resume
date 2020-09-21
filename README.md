@@ -24,6 +24,9 @@
 - 멋쟁이 사자처럼 7기 운영진 (2019.01 - 2019.12)
 - 대학생벤처기사단이 UKOV 20기 (2019.07 - 2019.12)
 - Gaudio- 인턴 (2019.07 - 2019.08)
+- LINE TV- 인턴 (2020.07 - 2020.08)
+
+## 
 
 ## 사용 기술
 
@@ -35,7 +38,7 @@
 
 - MVP, MVVM Pattern
 - DataBinding
-- 기타 : glide, retrofit, TweenAnimation, JNI, Room
+- 기타 : glide, retrofit, TweenAnimation, JNI, Room, ExoPlayer
 
 #### Server
 
@@ -49,6 +52,33 @@
 - 커뮤니티 - Slack
 - 이슈관리 - Github / Jira(애자일/칸반) 
 - 버전관리 - Git
+
+
+
+### 동영상 자막 생성 앱
+
+- 기간 : 2020.07 ~ 2020.08
+
+- 소개 : 영상에 자막 추가, 수정할 수 있으며 자막의 다국어 변역이 가능한 안드로이드 앱
+
+- 역할 : Exoplayer를 활용한 동영상 재생 custom 플레이어 생성, 자막 추가기능과 해당 data로 WEBVTT포맷의 자막파일 생성 원본 m3u8 파일을 조작해 영상에 자막파일을 포함 Papago API를 이용한 다국어 자막변환
+
+- 사용한 Skill 또는 지식 :Android(kotlin), ExoPlayer(hls,core), MobileFFmpeg, webVTT, m3u8 ,Papago, RxJava, Retrofit2, MVVM
+  
+
+  <img width="160" alt="image" src="./images/subtile_1.png"><img width="160" alt="image" src="./images/subtile_2.png"><img width="160" alt="image" src="./images/subtile_3.png"><img width="160" alt="image" src="./images/subtile_4.png"><img width="160" alt="image" src="./images/subtile_5.png">
+
+  <img width="160" alt="image" src="./images/subtile_6.png"><img width="160" alt="image" src="./images/subtile_7.png"><img width="160" alt="image" src="./images/subtile_8.png">
+
+  
+
+  
+
+  
+
+  
+
+
 
 
 
