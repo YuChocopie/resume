@@ -53,6 +53,12 @@
 - 이슈관리 - Github / Jira(애자일/칸반) 
 - 버전관리 - Git
 
+ 
+  
+
+
+
+## 프로젝트
 
 
 ### 동영상 자막 생성 앱
@@ -70,20 +76,7 @@
 
   <img width="160" alt="image" src="./images/subtile_6.png"><img width="160" alt="image" src="./images/subtile_7.png"><img width="160" alt="image" src="./images/subtile_8.png">
 
-  
-
-  
-
-  
-
-  
-
-
-
-
-
-## 프로젝트
-
+ 
 
 ### [MOTI](https://github.com/YuChocopie/Ahobsu-Node-Backend)
 
