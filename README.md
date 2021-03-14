@@ -60,15 +60,35 @@
 
 ## 프로젝트
 
+### [MAC - Mystical Animal Counseling]
+- 기간 : 2021.02 ~ 현재
+- 소개 : 고민 상담 을을 작성하고 해당 카테고리 동물 배지를 얻게되는 귀여운 UI를 가진 서비스
+- 역할 : 지역기반 질문을 나타내는 메인 화면 커스텀
+- 사용한 Skill 또는 지식 : Android, git, Databinding, MVVM ,CustomView
+
+
+### [DearWorld]
+- 기간 : 2021.02 ~ 현재
+- 소개 : [우주인 Sugar의 항해일지 :)](https://besign35.tistory.com/2)
+- 역할 : 지도를 나타내는 세계지도 custom view 생성 및 랭킹화면 구현 
+- 사용한 Skill 또는 지식 : Android, git, Databinding, MVVM ,CustomView
+
+
+### [MOTI](https://github.com/mash-up-kr/Moti_AOS)
+
+- 기간 : 2021.01 ~ 현재
+- 소개 : 매일매일 미션을 수행하며 카드를 수집하는 Android 앱 개발.
+- 역할 : IOS 앱으로 제공되던 moti의 android 버전 출시를 준비중입니다. :-)
+- 사용한 Skill 또는 지식 : Android(kotlin), Retrofit2, MVVM, CleanArchitecture
+
+<img width="160" alt="image" src="./images/moti01.png"><img width="160" alt="image" src="./images/moti02.png"><img width="160" alt="image" src="./images/moti03.png"><img width="160" alt="image" src="./images/moti04.png"><img width="160" alt="image" src="./images/moti05.png">
+
 
 ### 동영상 자막 생성 앱
 
 - 기간 : 2020.07 ~ 2020.08
-
 - 소개 : 영상에 자막 추가, 수정할 수 있으며 자막의 다국어 변역이 가능한 안드로이드 앱
-
 - 역할 : Exoplayer를 활용한 동영상 재생 custom 플레이어 생성, 자막 추가기능과 해당 data로 WEBVTT포맷의 자막파일 생성 원본 m3u8 파일을 조작해 영상에 자막파일을 포함 Papago API를 이용한 다국어 자막변환
-
 - 사용한 Skill 또는 지식 :Android(kotlin), ExoPlayer(hls,core), MobileFFmpeg, webVTT, m3u8 ,Papago, RxJava, Retrofit2, MVVM
   
 
