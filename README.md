@@ -2,7 +2,7 @@
 
 <img width="200" alt="image" src="./images/profile.jpeg">  
 
-#### 춤을 좋아하는 안드로이드 개발자 김유정입니다 :)
+#### 함께하는 것을 좋아하는 안드로이드 개발자 김유정입니다 :)
 
 좋은 개발자가 되기 위해서는 오직 개발에만 집중하기보다는 여러 직군과 협업을 해야 한다고 생각합니다. 그래서 개발뿐만 아니라 디자인, 기획을 접해보고 도움이 될만한 것들을 계속 배우고 있습니다
 
@@ -12,7 +12,7 @@
 
 - GitHub: https://github.com/YuChocopie 
 
-- blog: https://yuchocopie.com
+- [blog](https://chocopie-yuchocopie.vercel.app)
 
 - 취미: 춤, 바다낚시, 해커톤
 
@@ -30,28 +30,24 @@
 
 ## 사용 기술
 
-#### Android
+### Android
 
-- Java
+- `Kotlin`, `Java`
+- `MVP`  `MVVM`  `MVI` `Clean Architecture`
+- `DataBinding`  `LifeCycle` `Coroutine`
+- `glide` `retrofit` `TweenAnimation` `JNI` `Room` `ExoPlayer` `MobileFFmpeg` `Paging Library` 
 
-- Kotlin
+### Server
 
-- MVP, MVVM Pattern
-- DataBinding
-- 기타 : glide, retrofit, TweenAnimation, JNI, Room, ExoPlayer
+- `NodeJS`
+- `Spring-Kotlin`
 
-#### Server
+### Process
 
-- NodeJS
-- Spring-Kotlin
-
-#### Process
-
-- 모니터링 - Google Analytics
-
-- 커뮤니티 - Slack
-- 이슈관리 - Github / Jira(애자일/칸반) 
-- 버전관리 - Git
+- 모니터링 - `Google Analytics`
+- 커뮤니티 - `Slack`
+- 이슈관리 - `Github`  `Jira(애자일/칸반)` 
+- 버전관리 - `Git` 
 
  
   
@@ -60,15 +56,22 @@
 
 ## 프로젝트
 
-### [MAC - Mystical Animal Counseling]
-- 기간 : 2021.02 ~ 현재
+### [HellTaBus_Android](https://github.com/mash-up-kr/HellTaBus_Android)
+- 기간 : 2021.09 ~ 현재
+- 소개 : 사용자에게 맞는 운동을 맞춤추천해주는 서비스
+- 역할 : 프로젝트 아키텍처 설정, 운동 가이드에 나오게 될 애니메이션과 커스텀 UI 
+- 사용한 Skill 또는 지식 : Android, git, Databinding, CleanArchitecture, MVVM ,Coroutine, Retrofit, Hilt
+
+
+### [MAC - Mystical Animal Counseling](https://github.com/mash-up-kr/MAC_Android)
+- 기간 : 2021.02 ~ 2021.04
 - 소개 : 고민 상담 을을 작성하고 해당 카테고리 동물 배지를 얻게되는 귀여운 UI를 가진 서비스
 - 역할 : 지역기반 질문을 나타내는 메인 화면 커스텀
 - 사용한 Skill 또는 지식 : Android, git, Databinding, MVVM ,CustomView
 
 
 ### [DearWorld]
-- 기간 : 2021.02 ~ 현재
+- 기간 : 2021.02 ~ 2021.03
 - 소개 : [우주인 Sugar의 항해일지 :)](https://besign35.tistory.com/2)
 - 역할 : 지도를 나타내는 세계지도 custom view 생성 및 랭킹화면 구현 
 - 사용한 Skill 또는 지식 : Android, git, Databinding, MVVM ,CustomView
